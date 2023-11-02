@@ -1,0 +1,101 @@
+ Arrays:
+ ------
+  collection of elements
+  int a;
+  a=17;
+  index:0,1,2,...n-1
+	arr[0]=25;
+	arr[1]=17;
+       data-type[] array-name=new data-type[size];
+	string[] courses=new string[5];
+	
+       6: 98 87 58 69 65 85
+
+  
+  Object Oriented Programming Structures:(OOPS)
+	Class
+	Object
+	Inheritance
+	Polymorphism
+	Encapsulation
+	Abstraction
+	Constructors
+	Exception Handling
+
+	Class:
+	DataMembers/variables
+	Member Functions
+	
+	class class-name
+	{
+
+	}
+	Object:
+	Instance of a class/Implementation of a class
+	Class-Name Obj-name=new class-name();
+	a=15;
+
+  Inheritance:
+	aquiring properties from one class to another class
+	class A
+	{
+	}
+	class B : A
+	{
+	}
+	A: Base/Parent
+	B: Derived/Child
+	
+	Polymorphism:
+		1.static Polymorphism/Method Overloading/Compile-time
+			void sum(int x,int y)
+			void sum(int x,double y)
+			void sum(int x,int y,int x)
+			same fn name
+			same return type
+			different parameters
+		2.Dynamic Polymorphism/Method Overriding/Run-time
+			same fn name
+			same return type
+			same paramters
+	
+		Encapsulation:
+		It is a process of showing/hiding members of class
+		public,private,protected,internal,default
+
+
+	Regular Expressions: REGEX
+	--------------------
+	System.Text.RegularExpressions
+	IsMatch
+	
+	[] -Inputs
+	{} -no. of Iputs
+
+	Mobile No: ^[6-9]{1}[0-9]{9}$
+	PAN: [A-Za-z]{5}[0-9]{4}[A-Za-z]{1}
+	UserId:[A-Za-z]{1}[A-Za-z0-9._@]{7,19} 
+	TS07UH8975 [A-Za-z]{2}[0-9]{2}[A-Za-z]{2}[0-9]{4}
+	
+	Abstraction
+	Constructors
+	Exception Handling
+	Static,Base
+	Collections
+	SQL
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+

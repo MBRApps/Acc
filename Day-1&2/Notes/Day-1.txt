@@ -1,0 +1,97 @@
+ Variables:
+	System allocated memory to store data
+
+  RAM: Heap Memory
+
+  a=25
+  a=48
+
+  Constant:
+	It is also a variable with fixed value
+	a=96
+         101001000
+
+ 
+  Data Types:
+	Numbers:	
+	Integer:0-9
+           short:Int16(2 Bytes)
+	   int:Int32(4 Bytes)
+	   long:Int64(8 Bytes)
+	Decimals:0-9.  98.12345667889
+	    float:Single(4 Bytes) float x=12.1234567
+	    double:Double(8 Bytes)
+       Boolean:
+            bool:Boolean(1 bit)
+       Characters:
+	    char:Character(1 Byte)  1key
+	    string:String(1 Byte/char)   >1key
+       Void:(0 Bytes)
+
+Solution Explorer: Ctrl+Alt+L
+toolbox: Ctrl+Alt+X
+Server Explorer: Ctrl+Alt+S
+Build: Ctrl+Shift+B
+Run: F5
+
+ IO:
+ Output: Write/WriteLine 
+	hello world
+	helloWorld
+	HelloWorld
+
+  Input:
+	Read(): ByteCode
+	ReadKey(): ASCII
+	ReadLine(): String
+
+Operators:
+	Arithematic: [+ - * / %]
+	Relational: [> < >= <= == !=]
+	Assaignment: [= += -= *= /= %=] a=85 b=79  a+=10
+	Increment/Decrement:[++ --]
+	Conditional: [?]
+	Logical:[&& || !]
+
+Statements:
+	1.Conditional Statements(if,if-else,nested if)
+	2.Looping/Iterational (for,while,do-while)
+	3.Case
+
+	  init;
+          do
+	   {
+		increment/decrement;
+            }
+	while(condition);
+ *
+ * *
+ * * *	
+
+ Background
+
+
+ n=5
+4x1=4  5x1=5 6x1=6
+
+
+n=10
+1+3+5+7+9=?
+ 
+ 1
+ 1 2
+ 1 2 3
+ 1 2 3 4
+
+ *
+ * *
+ * * *
+ * * * *
+
+ 1
+ 2 3
+ 4 5 6
+ 7 8 9 10
+    
+	   
+
