@@ -1,0 +1,73 @@
+ Abstraction:
+	1.Abstract Classes
+	2.Interfaces
+
+	Abstract Classes:
+	-----------------
+	abstract class Arithematic
+	{
+	public void sum(int x,int y)
+	{
+	}
+	public abstract void div(int x,int y);
+        }
+
+	interface IArithematic
+	{
+	    void sum(int x,int y);
+	    void sub(int x,int y);	
+	}
+
+	Constructors:
+	------------
+	It is a special type member function
+	-Name will be similar to class-name
+	-It will be automatically executes when we create object of the class
+	-It won't return any data-type
+	
+        Exception Handling:
+	------------------
+	It is a run-time error.
+	try
+	catch
+	finally
+	throw
+
+	Base Keyword:
+---------------------
+
+        Static Keyword:
+-----------------------
+	Student: Id,Name,CollegeName
+
+	String Functions:
+	-----------------
+	String: string s="india";
+		cw(s+"(+91)");
+		cw(s)
+	String Builder
+
+	FileHandling:
+--------------------
+	System.IO
+	File,FileInfo,Directory
+	
+        hello
+----------------------
+	var dynamic
+	var i=;
+	var a=10;
+	var str="abc";
+	dynamic d;
+	dynamic a=10;
+	a=15.26;
+	a="abc";
+----------------------
+	Parameters:
+	in
+	out
+	in-out:ref
+		
+
+	
+	
