@@ -1,0 +1,35 @@
+	Code First Approach:
+	-------------------
+	enable-migrations
+	add-migration 'Inital Commit'
+	update-database
+
+	Model First Approach:
+-----------------------------
+	
+
+	Windows Applications:
+	---------------------
+	1.Native Windows APP Dev
+	2.XAML(WPF)
+
+	Form:
+		Designer 
+		Code Behind: C#.NET *.cs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

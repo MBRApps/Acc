@@ -1,0 +1,47 @@
+	WPF: Windows Presentation Foundation
+	XAML
+	C#.NET
+
+	Layout:
+	Grid
+	stack
+	canvas
+
+ Model View Controller: (MVC)
+	Web APPS:
+	1.Static Web Apps (Html,css,JS)
+	2.Dynamic Web Apps
+		Client-Server
+		ASP.NET: ActiveX Server Pages
+		UI+C#.NET
+		Life Cycle
+		MVC
+		HTTP:
+		GET
+		POST
+		PUT
+		DELETE 
+
+		url:
+		http://www.abc.com/Employees/Find?id=1056
+	http://www.abc.com/: Domain Name
+	Employees: Controller
+	Find: Action Method
+	id: Parameter
+	1056: value
+
+	http://www.abc.com/Employees/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

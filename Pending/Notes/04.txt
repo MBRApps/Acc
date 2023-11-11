@@ -1,0 +1,12 @@
+  Dis-Connected:
+	System.Data
+
+	DataTable
+	DataSet
+
+    Entity Framework: ORM Tool (Object Relational Mapping)
+	1.DB First Approach
+	2.Code First Approach
+	3.Model First Approach
+
+     

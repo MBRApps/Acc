@@ -1,0 +1,39 @@
+File Properties:
+
+Util
+IO
+lang
+spring
+json
+junit
+
+static:
+------------------
+class Student
+{
+	Id:4,name:6,CollegeName:6;
+}
+
+Student s1=new Student();
+s1.CollegeName  X
+Student.CollegeName="";
+
+Final:
+------
+variables: const
+functions
+classes
+
+OOPS
+IO
+
+DB-Table
+static url:
+
+insert()
+update()
+delete()
+select()
+
+abstraction:
+classes: 

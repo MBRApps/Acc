@@ -1,0 +1,130 @@
+  Collections:
+--------------
+	Generic Collection
+	Non-Generic Collections:
+	
+	ArrayList:
+	Stack: LIFO
+	Queue
+	
+	Generic Collections:/Templates
+	--------------------
+	List<int> list=new List<int>();
+	List<string> list1=new List<string>();
+
+	HashSet
+        //value C-1500025//key
+	C-
+
+	Dictionary: key,value
+	
+	SQL:
+	Structured Query Language
+	Data vs Information:
+	DataBase:
+	Tables & Table Objects(views,functions,stored procedures,triggers,etc..)
+	Table: structured way to store data
+	Rows & Col
+	DBMS: SQL PLUS
+	RDBMS: SQL Server,Oracle,MySQL
+
+	Query:
+	------
+	
+	Sub languages of SQL:
+	---------------------
+	Data Definition Language-DDL (create,alter,rename,drop,truncate)	
+	Data Manupilation Language-DML(insert,update,delete,select)
+	Data Quering Language-DQL(select)
+	Data Control Language-DCL(grant,revoke)
+	Transact Control Language-TCL(commit,rollback,savepoint)
+
+	DDL:
+	Create:
+	create database TestDB;
+	create table table-name
+	(
+	   col-name data-type,
+	   col-name data-type.....
+	) ;
+	
+	alter:
+	alter table table-name
+	add 
+	col-name data-type;
+
+	alter table table-name
+	alter column col-name new-data-type;
+
+	alter table table-name
+	drop column col-name;
+
+	Rename:
+	sp_rename '',''
+
+	sp_rename 'tablename.col-name','new-col-name','column'
+
+	LIKE:
+	-----
+	R A
+	Between:
+	----------
+
+	IN:
+-----------
+
+	Group By: sum,min,max,avg,count
+
+	Keys & Constraints:
+	--------------------
+	Null & duplicate
+
+	Not Null
+	Unique
+	Primary key
+	Composite Key
+	Foreign Key
+
+	check
+	default
+
+
+	
+	ActiveX Data Object:
+----------------------------
+	System.Data
+	System.Data.SqlClient
+		-SqlConnection
+		-SqlCommand
+
+	Nuget.org
+
+		https://api.nuget.org/v3/index.json
+
+	server=DESKTOP-L1SMRMH;
+	database=TestDB;
+	integrated security=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+	
+	
